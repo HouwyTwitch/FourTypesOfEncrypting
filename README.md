@@ -1,2 +1,2 @@
 # FourTypesOfEncrypting
- Pyhon program that implement four simpleencrypting algoritms.
+ Python program that implement four simple encrypting algoritms.
